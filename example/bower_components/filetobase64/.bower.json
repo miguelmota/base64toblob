@@ -1,0 +1,24 @@
+{
+  "name": "filetobase64",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "File object to base64 string",
+  "main": "filetobase64.js",
+  "keywords": [
+    "file",
+    "base64"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/miguelmota/filetobase64",
+  "_release": "d7f58c5e75",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "d7f58c5e7592d943bb452cbb9a09a4e6330fc138"
+  },
+  "_source": "git://github.com/miguelmota/filetobase64.git",
+  "_target": "*",
+  "_originalSource": "filetobase64",
+  "_direct": true
+}

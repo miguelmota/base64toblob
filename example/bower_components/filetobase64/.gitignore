@@ -81,7 +81,7 @@ node_modules
 
 # Bower #
 #####################
-#bower_components
+bower_components
 
 # Folders to ignore #
 #####################
