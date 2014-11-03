@@ -1,0 +1,26 @@
+{
+  "name": "base64toblob",
+  "version": "0.0.1",
+  "description": "Base64 to Blob object",
+  "main": "base64toblob.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/base64toblob.git"
+  },
+  "keywords": [
+    "base64",
+    "blob"
+  ],
+  "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelmota/base64toblob/issues"
+  },
+  "homepage": "https://github.com/miguelmota/base64toblob"
+}
