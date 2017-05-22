@@ -4,7 +4,7 @@ Convert a base64 string to a [Blob](https://developer.mozilla.org/en-US/docs/Web
 
 # Demo
 
-[http://lab.moogs.io/base64toblob](http://lab.moogs.io/base64toblob)
+[https://lab.miguelmota.com/base64toblob](https://lab.miguelmota.com/base64toblob)
 
 # Install
 

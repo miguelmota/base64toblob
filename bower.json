@@ -1,7 +1,7 @@
 {
   "name": "base64toblob",
   "main": "base64toblob.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/miguelmota/base64toblob",
   "authors": [
     "Miguel Mota <miguelmota2@gmail.com>"

@@ -1,6 +1,6 @@
 {
   "name": "base64toblob",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Base64 to Blob object",
   "main": "base64toblob.js",
   "directories": {
